@@ -8,7 +8,8 @@ Projeto de estudo de React aplicação de controle financeiro
 - [X] Tabela de Transações 
 - [X] Componente: SearchForms 
 - [X] Criando um modal acessível 
-- [ ] Modal de nova transação 
-- [ ] Botões de entrada e saída 
-- [ ] Criando radio button acessível 
+- [X] Modal de nova transação 
+- [X] Botões de entrada e saída 
+- [X] Criando radio button acessível 
+- 
   
