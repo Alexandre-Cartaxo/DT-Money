@@ -11,5 +11,19 @@ Projeto de estudo de React aplicação de controle financeiro
 - [X] Modal de nova transação 
 - [X] Botões de entrada e saída 
 - [X] Criando radio button acessível 
-- 
+  
+## Conexão com a API 
+
+- [X] Configurando JsonServer
+- [X] Realizando requisição HTTP
+- [X] Criando contexto de transações
+- [X] Calculando resumos das transações 
+- [ ] Formatando valores
+- [ ] Criando Hook para o resumo 
+- [ ] Aplicando react-hook-form 
+- [ ] Controlled components 
+- [ ] Buscando Transações 
+- [ ] Configurando axios 
+- [ ] Criando nova transação 
+- [ ] Corrigindo erros de linting 
   
