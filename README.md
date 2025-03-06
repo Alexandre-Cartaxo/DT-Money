@@ -18,9 +18,9 @@ Projeto de estudo de React aplicação de controle financeiro
 - [X] Realizando requisição HTTP
 - [X] Criando contexto de transações
 - [X] Calculando resumos das transações 
-- [ ] Formatando valores
-- [ ] Criando Hook para o resumo 
-- [ ] Aplicando react-hook-form 
+- [X] Formatando valores
+- [X] Criando Hook para o resumo 
+- [X] Aplicando react-hook-form 
 - [ ] Controlled components 
 - [ ] Buscando Transações 
 - [ ] Configurando axios 
