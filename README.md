@@ -26,5 +26,20 @@ Projeto de estudo de React aplicação de controle financeiro
 - [X] Configurando axios 
 - [X] Criando nova transação 
 - [X] Corrigindo erros de linting 
-  
+
+## Performance
+
+- [X] Utilizando React Dev Tools
+- [X] Aplicando context selector 
+- [X] Aplicando useCallback
+- [X] Aplicando memo 
+- [X] Aplicando useMemo
+
+## Instruções de instalação
+
+```bash
+npm i 
+npm run dev:server
+npm run dev 
+``` 
   

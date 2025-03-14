@@ -31,6 +31,30 @@
       "type": "income",
       "createdAt": "2025-03-07T04:12:24.321Z",
       "id": 4
+    },
+    {
+      "description": "Presente ",
+      "price": 180,
+      "category": "Vestuário ",
+      "type": "outcome",
+      "createdAt": "2025-03-07T04:35:18.811Z",
+      "id": 5
+    },
+    {
+      "description": "Blusa ",
+      "price": 5,
+      "category": "Vestuario",
+      "type": "outcome",
+      "createdAt": "2025-03-07T13:53:24.523Z",
+      "id": 6
+    },
+    {
+      "description": "qualquer",
+      "price": 8,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-03-07T14:04:24.347Z",
+      "id": 7
     }
   ]
 }
